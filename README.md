@@ -8,7 +8,7 @@ scripts to execute:
 - DB_Pop.sql
 - Test_MySql.sql
 
-2 - Processing of the AAL 
+2 - Processing of the AAL (Aggregation Archive Log)
 - DailySize_2.py
 - AAL_Size_DS.py
 
