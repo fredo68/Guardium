@@ -14,3 +14,8 @@ scripts to execute:
 
 3 - Processing of the Ent BUM (Enterprise Buffer Usage monitor)
 - entBUM_AR.py
+
+4 - Processing of APL (Audit Process Log)
+Computes the duration of each task in an audit process run.
+- APL.py
+
