@@ -19,3 +19,5 @@ scripts to execute:
 Computes the duration of each task in an audit process run.
 - APL.py
 
+5 - Processing of AAL for Timing and Duration
+- AAL_Timing.py
